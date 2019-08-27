@@ -1,4 +1,4 @@
-# mercavus-rn-test
-React Native, Typescript
+# fast-image-grid
+React Native, Typescript, Unsplash API
 
 ![](demo.gif)
